@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Haseeb 👋
+# Hi, I'm Haseeb 👋
 
 ### Structural Engineer | Interested in Computational Engineering | Structural Research
 
