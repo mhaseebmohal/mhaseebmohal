@@ -1,31 +1,13 @@
+# Hey there! 👋 I'm Haseeb
 
-# Muhammad Haseeb
+I'm a structural engineer from Pakistan, currently pursuing my MS in Structural Engineering at NUST, Islamabad.
 
-**Structural Engineer | Computational Engineering | Programming**
+I work as a Graduate Structural Engineer at Prime Engineers, Australia, and enjoy combining engineering with programming to solve real-world problems.
 
-Structural Engineer and MS Structural Engineering student at **NUST, Islamabad**. Interested in computational engineering, structural analysis, and developing software tools to solve engineering problems.
+My main tools are Python, MATLAB, ABAQUS, and ETABS. I'm interested in computational engineering, structural analysis, and building useful engineering tools.
 
-Currently working as a **Graduate Structural Engineer at Prime Engineers, Australia**.
+One project I've built is a [MATLAB Mode Shapes Calculator](https://github.com/mhaseebmohal/mode_shapes_calculator) that calculates natural frequencies, time periods, and mode shapes.
 
-### Technical Skills
-- **Programming:** Python, MATLAB, C++
-- **Structural Analysis:** ABAQUS, ETABS, SAP2000, SAFE
-- **Design & BIM:** Revit, AutoCAD, Autodesk Robot Structural Analysis
+Outside of work, I'm exploring programming, numerical methods, and new ways to make engineering calculations easier.
 
-### Featured Project
-**[MATLAB Mode Shapes Calculator](https://github.com/mhaseebmohal/mode_shapes_calculator)**
-
-A MATLAB GUI application for calculating natural frequencies, time periods, mode shapes, and modal mass and stiffness matrices.
-
-### Research Interests
-Reinforced Concrete · Engineered Cementitious Composites (ECC) · Finite Element Analysis · Structural Dynamics
-
-### Education
-**MS Structural Engineering** — NUST, Islamabad *(2024–Present)*
-
-**BS Civil Engineering** — BZU Multan *(CGPA: 3.81/4.00 · Silver Medalist)*
-
-### Connect
-[LinkedIn](https://linkedin.com/in/mhaseebmohal) · [Email](mailto:mhaseebmohal@gmail.com)
-
----
+You can find me here: [LinkedIn](https://linkedin.com/in/mhaseebmohal)
